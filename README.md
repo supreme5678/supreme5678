@@ -1,7 +1,13 @@
 
 ___TAKE CHARGE AND LIVE LARGE___
 
+
+## 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=supreme5678&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Supreme5678's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Supreme5678&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **supreme5678/supreme5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
