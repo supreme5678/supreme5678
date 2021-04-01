@@ -1,14 +1,11 @@
 
 <p align="center">
- <b>TAKE CHARGE AND LIVE LARGE</b>
-</p>
-## &#x1f4c8; GitHub Stats
+ 
+ > **TAKE CHARGE AND LIVE LARGE**
 
-<!--
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreme5678&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Supreme5678's GitHub Stats" />
-</a>
--->
+</p>
+
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme5678&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Supreme5678's GitHub Stats" />
