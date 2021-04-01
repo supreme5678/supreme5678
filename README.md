@@ -1,7 +1,6 @@
 
 > **TAKE CHARGE AND LIVE LARGE**
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ziuopb5xhupeams6vc2ps3q)](https://github.com/kittinan/spotify-github-profile)
-
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21ziuopb5xhupeams6vc2ps3q)
 
 ## &#x1f4c8; GitHub Stats
 
