@@ -1,7 +1,7 @@
 
 > **TAKE CHARGE AND LIVE LARGE**
  
-[![Spotify]](https://open.spotify.com/user/21ziuopb5xhupeams6vc2ps3q)
+<a href="https://open.spotify.com/user/21ziuopb5xhupeams6vc2ps3q">**Spotify**</a>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -19,6 +19,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=supreme5678&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/supreme5678" />
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme5678&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
