@@ -1,5 +1,6 @@
 
 > **TAKE CHARGE AND LIVE LARGE**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ziuopb5xhupeams6vc2ps3q)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## &#x1f4c8; GitHub Stats
