@@ -1,6 +1,8 @@
 
 ___TAKE CHARGE AND LIVE LARGE___
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=supreme5678&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **supreme5678/supreme5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
