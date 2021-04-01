@@ -1,9 +1,6 @@
 
-<p align="center">
- 
- > **TAKE CHARGE AND LIVE LARGE**
 
-</p>
+ > ## TAKE CHARGE AND LIVE LARGE
 
 ## &#x1f4c8; GitHub Stats
 
